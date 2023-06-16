@@ -1,4 +1,3 @@
-/* eslint-disable*/
 import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { useSelector } from "react-redux";
